@@ -1,3 +1,8 @@
+
+--[[
+	OLD, LAGGY, AND DEPRECATED. USE NEW MODULE.
+]]
+
 local Construction = {}
 
 local SoundService = game:GetService("SoundService")
